@@ -1,8 +1,30 @@
 {
     "latest_version": "1.1",
-    "download_url": "https://github.com/KienBoRao/HolarishTestPC/releases/download/v1.1/HolarishTestPC.exe",
+    "download_url": "https://github.com/Votrungkien26905/HolarishTestPC/releases/download/v1.1/HolarishTestPC.exe",
     "changelog": {
-        "vi": "Changelog 1.1:\n- Đã cập nhật giao diện kết quả mới\n- Thêm tính năng xuất Excel\n- Bổ sung chức năng Changelog và Check Update.",
-        "en": "Changelog 1.1:\n- UI upgraded\n- Added Excel export feature\n- Added Changelog and Check Update feature."
+        "vi": {
+            "1.1": [
+                "Đã cập nhật giao diện kết quả mới tuyệt đẹp.",
+                "Thêm tính năng xuất báo cáo ra Excel.",
+                "Hệ thống kiểm tra phiên bản mới tự động."
+            ],
+            "1.0": [
+                "Ra mắt tính năng Test Nhanh.",
+                "Ra mắt tính năng Test Độ Ổn Định.",
+                "Ghi file kết quả test.result."
+            ]
+        },
+        "en": {
+            "1.1": [
+                "Brand new beautiful result UI.",
+                "Added Excel report export.",
+                "Automatic update checker system."
+            ],
+            "1.0": [
+                "Initial Quick Test feature.",
+                "Initial Stability Test feature.",
+                "Text file test.result export."
+            ]
+        }
     }
 }
