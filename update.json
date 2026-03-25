@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0",
+    "latest_version": "1.0.1",
     "download_url": "https://github.com/KienBoRao/HolarishTestPC/releases/download/v1.0/HolarishTestPC.exe",
     "changelog": {
         "vi": "Changelog 1.0:\n- Đã cập nhật giao diện kết quả mới\n- Thêm tính năng xuất Excel\n- Bổ sung chức năng Changelog và Check Update.",
