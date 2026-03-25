@@ -3,24 +3,28 @@
     "download_url": "https://github.com/Votrungkien26905/HolarishTestPC/releases/download/v1.1/HolarishTestPC.exe",
     "changelog": {
         "vi": {
-            "1.1": [
+            "1.0": [
                 "Đã cập nhật giao diện kết quả mới tuyệt đẹp.",
                 "Thêm tính năng xuất báo cáo ra Excel.",
-                "Hệ thống kiểm tra phiên bản mới tự động."
+                "Hệ thống kiểm tra phiên bản mới tự động.",
+                "Hỗ trợ Windows 11 x86 26H2",
+                "Hỗ trợ MacOS 26.3.1 trở lên"
             ],
-            "1.0": [
+            "beta 0.3": [
                 "Ra mắt tính năng Test Nhanh.",
                 "Ra mắt tính năng Test Độ Ổn Định.",
                 "Ghi file kết quả test.result."
             ]
         },
         "en": {
-            "1.1": [
+            "1.0": [
                 "Brand new beautiful result UI.",
                 "Added Excel report export.",
-                "Automatic update checker system."
+                "Automatic update checker system.",
+                "Support Windows 11 x86 26H2 or higher",
+                "Support MacOS 26.3.1 or higher"
             ],
-            "1.0": [
+            "beta 0.3": [
                 "Initial Quick Test feature.",
                 "Initial Stability Test feature.",
                 "Text file test.result export."
